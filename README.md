@@ -21,6 +21,20 @@ A simple yet functional Bank Management System built using C sharp and SQL Serve
 - IDE: Visual Studio
 
  📸 Screenshots
+https://github.com/amnaimran481/Bank-Management-System/blob/19a1bcfd78bc10a67003241d9fa7f7e1bdeffc74/Login%20design.PNG
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
